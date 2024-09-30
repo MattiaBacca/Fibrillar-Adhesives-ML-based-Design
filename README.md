@@ -1,4 +1,5 @@
 **Machine Learning-Based Optimal Design of Fibrillar Adhesives**
+
 This code provides an ML-based tool that optimizes the distribution of fibril compliance to maximize adhesive strength. Our tool, featuring two neural networks (NNs), recovers previous design results for simple geometries and introduces novel solutions for complex configurations.
 
 This Method is described in detail in the paper:
